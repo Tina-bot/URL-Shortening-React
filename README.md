@@ -13,7 +13,7 @@
 <i> Please avoid entering instagram profiles due to blocking issues with the api, i am trying to fix it 💔 </i>
 
 ## Live Preview
-🌌https://shorty-react.netlify.app/🌌
+🌌 https://shorty-react.netlify.app/ 🌌
 
 ## To-Fix 🔧
 <li> some websites have problems with slash </li>
