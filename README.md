@@ -12,7 +12,7 @@
 ![Screenshot_21](https://user-images.githubusercontent.com/72955349/200478925-cc4697d9-d7d5-4cf8-901e-c782235f6f5c.png)
 <i> Please avoid entering instagram profiles due to blocking issues with the api, i am trying to fix it 💔 </i>
 
-## Live Preview
+## Live Preview 👁‍🗨
 🌌 https://shorty-react.netlify.app/ 🌌
 
 ## To-Fix 🔧
