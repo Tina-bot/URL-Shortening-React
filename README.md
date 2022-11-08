@@ -7,7 +7,8 @@
 >>This project is a my own version of the original Fronted Mentor project </p> (https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
 
 ## Functionality 🌈
-<h4> This page offers to create a short version of a link that you want to share! </h4>
+This page offers to create a short version of a link that you want to share! </p>
+It will add a history to be able to copy another link that you have previously created </p>
 
 ![Screenshot_21](https://user-images.githubusercontent.com/72955349/200478925-cc4697d9-d7d5-4cf8-901e-c782235f6f5c.png)
 <i> Please avoid entering instagram profiles due to blocking issues with the api, i am trying to fix it 💔 </i>
