@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# URL-Shortening-React ✂ `[WorkInProgress]`
+![tumblr_d9d52bc0e223cfec9edbc0f8ba68b853_d5b81d0d_2048](https://user-images.githubusercontent.com/72955349/200477927-193e4d31-a67b-416b-b5eb-d317c433e981.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About 🔍
 
-## Available Scripts
+>>React web project, where the purpose was to create a url shortener with api calls (https://shrtco.de/) </p>
+>>This project is a my own version of the original Fronted Mentor project </p> (https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
 
-In the project directory, you can run:
+## Functionality 🌈
+<h4> This page offers to create a short version of a link that you want to share! </h4>
 
-### `npm start`
+![Screenshot_21](https://user-images.githubusercontent.com/72955349/200478925-cc4697d9-d7d5-4cf8-901e-c782235f6f5c.png)
+<i> Please avoid entering instagram profiles due to blocking issues with the api, i am trying to fix it 💔 </i>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Preview
+🌌https://shorty-react.netlify.app/🌌
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## To-Fix 🔧
+<li> some websites have problems with slash </li>
+<li> buttons to fix and not reload the page unnecessarily </li>
+<li> implement more filters when the user wants to write wrong things </li>
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![tumblr_d9d52bc0e223cfec9edbc0f8ba68b853_d5b81d0d_2048](https://user-images.githubusercontent.com/72955349/200477927-193e4d31-a67b-416b-b5eb-d317c433e981.png)
