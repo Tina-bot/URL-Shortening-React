@@ -11,13 +11,12 @@ This page offers to create a short version of a link that you want to share! </p
 It will add a history to be able to copy another link that you have previously created </p>
 
 ![Screenshot_21](https://user-images.githubusercontent.com/72955349/200478925-cc4697d9-d7d5-4cf8-901e-c782235f6f5c.png)
-<i> Please avoid entering instagram profiles due to blocking issues with the api, i am trying to fix it 💔 </i>
 
 ## Live Preview 👁‍🗨
 🌌 https://shorty-react.netlify.app/ 🌌
 
 ## To-Fix 🔧
-<li> some websites have problems with slash </li>
+<li><del> some websites have problems with slash </del> Fix ✔</li>
 <li> implement more filters when the user wants to write wrong things </li>
 <li> limit url history </li>
 
