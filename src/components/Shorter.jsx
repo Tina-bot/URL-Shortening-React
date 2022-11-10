@@ -8,10 +8,13 @@ const Shooter = () => {
 		e.preventDefault();
 		let urlUser = e.target.value;
 
-		if (urlUser.includes(".com/")) {
-			urlUser.replace("/", "\/")
+		if (urlUser.includes("instagram")) {
+			setUrl(urlUser.replace(/.com\//, ".com\\"))
 		}
-		setUrl(urlUser);
+		else {
+			setUrl(urlUser)
+		}
+
 	}
 	const handleSubmit = async (e) => {
 		e.preventDefault();
@@ -25,7 +28,6 @@ const Shooter = () => {
 	}
 
 	useEffect(() => {
-
 		console.log(listUrl)
 	}, [listUrl])
 
