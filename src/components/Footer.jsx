@@ -177,7 +177,7 @@ const Footer = () => {
                 <a className="hover:opacity-75" href=""> Returns Policy </a>
               </div>
       
-              <p className="mt-4 sm:mt-0">&copy; 2022 Shortery.</p>
+              <p className="mt-4 sm:mt-0">&copy; 2022 Shorty.</p>
             </div>
       
             <p className="mt-8 text-xs text-gray-500">
