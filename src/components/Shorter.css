@@ -1,0 +1,33 @@
+.list-short {
+    overflow-y: scroll;
+    max-height: 400px;
+    scrollbar-color: auto;
+    background-color: rgb(188, 144, 238);
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: teal;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(99 102 241);
+}
+
+::-moz-selection {
+    color: white;
+    background: rgb(99 102 241);
+}
+
+::selection {
+    color: white;
+    background: rgb(99 102 241);
+}
