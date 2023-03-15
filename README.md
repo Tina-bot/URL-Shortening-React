@@ -1,4 +1,4 @@
-# URL-Shortening-React ✂ `[WorkInProgress]`
+# URL-Shortening-React ✂
 ![tumblr_d9d52bc0e223cfec9edbc0f8ba68b853_d5b81d0d_2048](https://user-images.githubusercontent.com/72955349/200477927-193e4d31-a67b-416b-b5eb-d317c433e981.png)
 
 ## About 🔍
@@ -18,6 +18,5 @@ It will add a history to be able to copy another link that you have previously c
 ## To-Fix 🔧
 <li><del> some websites have problems with slash </del> Fix ✔</li>
 <li><del> implement more filters when the user wants to write wrong things  </del> Fix ✔ </li>
-<li> limit url history </li>
 
 ![tumblr_d9d52bc0e223cfec9edbc0f8ba68b853_d5b81d0d_2048](https://user-images.githubusercontent.com/72955349/200477927-193e4d31-a67b-416b-b5eb-d317c433e981.png)
